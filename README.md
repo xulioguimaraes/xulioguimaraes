@@ -55,21 +55,22 @@ Atualmente, estou desempregado. Meus últimos trabalhos foram como freelancer, a
   <h3>🏢 Empresas que já trabalhei</h3>
   <br>
   
-  <img src="assets/libertaplay-logo.png" alt="LibertaPlay" width="120" height="60" style="margin: 10px;">
-  <img src="assets/libertainvestimento-logo.png" alt="LibertaPlay" width="120" height="60" style="margin: 10px;">
-  <img src="assets/agilego-logo.png" alt="AgileGo" width="120" height="60" style="margin: 10px;">
-  <img src="assets/ambipar-logo.png" alt="Ambipar" width="120" height="60" style="margin: 10px;">
-  <img src="assets/omo-logo.png" alt="OMO" width="120" height="60" style="margin: 10px;">
-  <img src="assets/ceisc-logo.png" alt="CEISC" width="120" height="60" style="margin: 10px;">
+  <img src="assets/libertaplay-logo.png" alt="LibertaPlay" width="content" height="60" style="margin: 10px;">
+  <img src="assets/libertainvestimentos-logo.png" alt="LibertaPlay" width="content" height="60" style="margin: 10px;">
+  <img src="assets/agilego-logo.png" alt="AgileGo" width="content" height="60" style="margin: 10px;">
+  <img src="assets/ambipar-logo.png" alt="Ambipar" width="content" height="60" style="margin: 10px;">
+  <img src="assets/omo-logo.png" alt="OMO" width="content" height="60" style="margin: 10px;">
+  <img src="assets/ceisc-logo.png" alt="CEISC" width="content" height="60" style="margin: 10px;">
   
   <br><br>
   
   <h4>🎰 Empresas como Freelancer</h4>
   <br>
   
-  <img src="assets/monte-carlo-logo.png" alt="Cassino Monte Carlo" width="120" height="60" style="margin: 10px;">
-  <img src="assets/jade-bet-logo.png" alt="Jade Bet" width="120" height="60" style="margin: 10px;">
-  <img src="assets/bateu-bet-logo.png" alt="Bateu Bet" width="120" height="60" style="margin: 10px;">
+  <img src="assets/monte-carlo-logo.jpeg" alt="Cassino Monte Carlo" width="120" height="60" style="margin: 10px;">
+  <img src="assets/jade-bet-logo.png" alt="Jade Bet" width="content" height="60" style="margin: 10px;">
+  <img src="assets/bateu-bet.png" alt="Bateu Bet" width="content" height="100" style="margin: 10px;">
+    <img src="assets/rei-cassino.svg" alt="Rei do cassino" width="content" height="60" style="margin: 10px;">
   
   <br>
   
