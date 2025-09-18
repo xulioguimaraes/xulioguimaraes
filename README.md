@@ -67,7 +67,7 @@ Atualmente, estou desempregado. Meus últimos trabalhos foram como freelancer, a
   <h4>🎰 Empresas como Freelancer</h4>
   <br>
   
-  <img src="assets/monte-carlo-logo.jpeg" alt="Cassino Monte Carlo" width="120" height="60" style="margin: 10px;">
+  <img src="assets/monte-carlo-logo.jpeg" alt="Cassino Monte Carlo" width="content" height="60" style="margin: 10px;">
   <img src="assets/jade-bet-logo.png" alt="Jade Bet" width="content" height="60" style="margin: 10px;">
   <img src="assets/bateu-bet.png" alt="Bateu Bet" width="content" height="100" style="margin: 10px;">
     <img src="assets/rei-cassino.svg" alt="Rei do cassino" width="content" height="60" style="margin: 10px;">
