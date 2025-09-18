@@ -56,11 +56,17 @@ Atualmente, estou desempregado. Meus últimos trabalhos foram como freelancer, a
   <br>
   
   <img src="assets/libertaplay-logo.png" alt="LibertaPlay" width="content" height="60" style="margin: 10px;">
-  <img src="assets/libertainvestimentos-logo.png" alt="LibertaPlay" width="content" height="60" style="margin: 10px;">
+  <img src="assets/libertainvestimentos-logo.png" alt="Liberta Investimentos" width="content" height="60" style="margin: 10px;">
   <img src="assets/agilego-logo.png" alt="AgileGo" width="content" height="60" style="margin: 10px;">
   <img src="assets/ambipar-logo.png" alt="Ambipar" width="content" height="60" style="margin: 10px;">
   <img src="assets/omo-logo.png" alt="OMO" width="content" height="60" style="margin: 10px;">
   <img src="assets/ceisc-logo.png" alt="CEISC" width="content" height="60" style="margin: 10px;">
+  <img src="assets/multti_logo.jpeg" alt="MULTTI - Tecnologia e Integrações" width="content" height="60" style="margin: 10px;">
+  <img src="assets/logo-aprincipal.png" alt="a principal bebe e mamae" width="content" height="60" style="margin: 10px;">
+  <img src="assets/logo_fc_oficial_sf.png" alt="fc concursos" width="content" height="s60" style="margin: 10px;">
+
+
+
   
   <br><br>
   
@@ -70,7 +76,7 @@ Atualmente, estou desempregado. Meus últimos trabalhos foram como freelancer, a
   <img src="assets/monte-carlo-logo.jpeg" alt="Cassino Monte Carlo" width="content" height="60" style="margin: 10px;">
   <img src="assets/jade-bet-logo.png" alt="Jade Bet" width="content" height="60" style="margin: 10px;">
   <img src="assets/bateu-bet.png" alt="Bateu Bet" width="content" height="100" style="margin: 10px;">
-    <img src="assets/rei-cassino.svg" alt="Rei do cassino" width="content" height="60" style="margin: 10px;">
+  <img src="assets/rei-cassino.svg" alt="Rei do cassino" width="content" height="60" style="margin: 10px;">
   
   <br>
   
