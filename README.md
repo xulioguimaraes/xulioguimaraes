@@ -1,4 +1,4 @@
-# Olá, eu sou [Julio Carvalho Guimaraes] 👋
+# Olá, eu sou Julio Carvalho Guimaraes 👋
 
 ## Sobre mim
 
@@ -50,11 +50,32 @@ Atualmente, estou desempregado. Meus últimos trabalhos foram como freelancer, a
 - Tecnologias: React, React Native, Next.js, NestJS, Laravel
 
 ### Clientes atendidos:
-- **LibertaPlay**
-- **AgileGo**
-- **Ambipar**
-- **OMO**
-- **CEISC**
+
+<div align="center">
+  <h3>🏢 Empresas que já trabalhei</h3>
+  <br>
+  
+  <img src="assets/libertaplay-logo.png" alt="LibertaPlay" width="120" height="60" style="margin: 10px;">
+  <img src="assets/libertainvestimento-logo.png" alt="LibertaPlay" width="120" height="60" style="margin: 10px;">
+  <img src="assets/agilego-logo.png" alt="AgileGo" width="120" height="60" style="margin: 10px;">
+  <img src="assets/ambipar-logo.png" alt="Ambipar" width="120" height="60" style="margin: 10px;">
+  <img src="assets/omo-logo.png" alt="OMO" width="120" height="60" style="margin: 10px;">
+  <img src="assets/ceisc-logo.png" alt="CEISC" width="120" height="60" style="margin: 10px;">
+  
+  <br><br>
+  
+  <h4>🎰 Empresas como Freelancer</h4>
+  <br>
+  
+  <img src="assets/monte-carlo-logo.png" alt="Cassino Monte Carlo" width="120" height="60" style="margin: 10px;">
+  <img src="assets/jade-bet-logo.png" alt="Jade Bet" width="120" height="60" style="margin: 10px;">
+  <img src="assets/bateu-bet-logo.png" alt="Bateu Bet" width="120" height="60" style="margin: 10px;">
+  
+  <br>
+  
+  <h5>Outros clientes:</h5>
+  <p><strong>Cassino Mirante</strong> • <strong>Rei do Cassino</strong></p>
+</div>
 
 ### Freelancer
 *Desenvolvedor Generalista - 2024 - 2025*
