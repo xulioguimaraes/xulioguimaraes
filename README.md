@@ -63,7 +63,7 @@ Atualmente, estou desempregado. Meus últimos trabalhos foram como freelancer, a
   <img src="assets/ceisc-logo.png" alt="CEISC" width="content" height="60" style="margin: 10px;">
   <img src="assets/multti_logo.jpeg" alt="MULTTI - Tecnologia e Integrações" width="content" height="60" style="margin: 10px;">
   <img src="assets/logo-aprincipal.png" alt="a principal bebe e mamae" width="content" height="60" style="margin: 10px;">
-  <img src="assets/logo_fc_oficial_sf.png" alt="fc concursos" width="content" height="s60" style="margin: 10px;">
+  <img src="assets/logo_fc_oficial_sf.png" alt="fc concursos" width="content" height="60" style="margin: 10px;">
 
 
 
